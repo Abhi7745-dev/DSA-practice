@@ -38,4 +38,12 @@ This repository is a record of my learning journey, and I expect my solutions an
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
