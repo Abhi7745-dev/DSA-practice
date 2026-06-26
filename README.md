@@ -25,6 +25,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 ## Math
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
@@ -47,5 +48,6 @@ This repository is a record of my learning journey, and I expect my solutions an
 ## Binary Search
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
