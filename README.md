@@ -34,6 +34,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [1688-count-of-matches-in-tournament](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1952-three-divisors) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2169-count-operations-to-obtain-zero) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Dynamic Programming
 |  |
 | ------- |
