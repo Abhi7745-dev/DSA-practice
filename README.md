@@ -38,6 +38,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
