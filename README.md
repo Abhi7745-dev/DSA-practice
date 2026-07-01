@@ -58,6 +58,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0136-single-number) |
 | [0704-binary-search](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0905-sort-array-by-parity) |
 | [0989-add-to-array-form-of-integer](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0989-add-to-array-form-of-integer) |
@@ -71,6 +72,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
