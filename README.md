@@ -39,6 +39,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [2652-sum-multiples](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3783-mirror-distance-of-an-integer) |
 | [3894-traffic-signal-color](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3894-traffic-signal-color) |
 ## Dynamic Programming
@@ -64,6 +65,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0989-add-to-array-form-of-integer](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
