@@ -45,6 +45,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -58,6 +59,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0136-single-number) |
 | [0704-binary-search](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0704-binary-search) |
@@ -102,4 +104,8 @@ This repository is a record of my learning journey, and I expect my solutions an
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0905-sort-array-by-parity) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
