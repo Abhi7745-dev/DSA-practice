@@ -42,6 +42,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3783-mirror-distance-of-an-integer) |
 | [3894-traffic-signal-color](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3894-traffic-signal-color) |
+| [3908-valid-digit-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3908-valid-digit-number) |
 ## Dynamic Programming
 |  |
 | ------- |
