@@ -31,6 +31,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0989-add-to-array-form-of-integer](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1952-three-divisors) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2169-count-operations-to-obtain-zero) |
@@ -88,6 +89,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | ------- |
 | [0136-single-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1486-xor-operation-in-an-array) |
 ## Simulation
 |  |
 | ------- |
