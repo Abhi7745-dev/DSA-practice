@@ -29,6 +29,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0507-perfect-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0989-add-to-array-form-of-integer) |
+| [1025-divisor-game](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1486-xor-operation-in-an-array) |
@@ -51,6 +52,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0053-maximum-subarray](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -141,4 +143,12 @@ This repository is a record of my learning journey, and I expect my solutions an
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
