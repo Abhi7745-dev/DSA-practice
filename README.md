@@ -25,6 +25,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0048-rotate-image) |
 | [0441-arranging-coins](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0509-fibonacci-number) |
@@ -65,6 +66,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
@@ -151,4 +153,8 @@ This repository is a record of my learning journey, and I expect my solutions an
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1025-divisor-game) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
