@@ -65,6 +65,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0053-maximum-subarray) |
@@ -118,6 +119,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0905-sort-array-by-parity](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0905-sort-array-by-parity) |
@@ -160,4 +162,8 @@ This repository is a record of my learning journey, and I expect my solutions an
 | ------- |
 | [0048-rotate-image](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0054-spiral-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
