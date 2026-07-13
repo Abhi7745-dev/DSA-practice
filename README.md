@@ -77,6 +77,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0989-add-to-array-form-of-integer) |
@@ -101,6 +102,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2169-count-operations-to-obtain-zero) |
@@ -165,6 +167,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0048-rotate-image](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0867-transpose-matrix) |
 ## Greedy
 |  |
 | ------- |
