@@ -44,6 +44,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3783-mirror-distance-of-an-integer) |
 | [3894-traffic-signal-color](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3908-valid-digit-number) |
@@ -116,6 +117,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1952-three-divisors) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
