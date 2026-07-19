@@ -36,6 +36,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [1486-xor-operation-in-an-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2169-count-operations-to-obtain-zero) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -89,6 +90,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0922-sort-array-by-parity-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -122,6 +124,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
