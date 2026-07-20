@@ -39,6 +39,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2169-count-operations-to-obtain-zero) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2485-find-the-pivot-integer](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2652-sum-multiples) |
@@ -192,6 +193,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
+| [2485-find-the-pivot-integer](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2485-find-the-pivot-integer) |
 ## Trie
 |  |
 | ------- |
