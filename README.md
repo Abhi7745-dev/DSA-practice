@@ -85,6 +85,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0229-majority-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0867-transpose-matrix) |
@@ -102,6 +103,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0441-arranging-coins](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
