@@ -26,6 +26,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0048-rotate-image) |
+| [0292-nim-game](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0509-fibonacci-number) |
@@ -181,10 +182,12 @@ This repository is a record of my learning journey, and I expect my solutions an
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1025-divisor-game) |
 ## Matrix
 |  |
