@@ -48,6 +48,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3783-mirror-distance-of-an-integer) |
 | [3894-traffic-signal-color](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3894-traffic-signal-color) |
@@ -157,6 +158,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0229-majority-element-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0229-majority-element-ii) |
 | [0905-sort-array-by-parity](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0922-sort-array-by-parity-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
