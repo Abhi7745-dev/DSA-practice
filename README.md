@@ -104,6 +104,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3701-compute-alternating-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3701-compute-alternating-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,6 +126,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [1688-count-of-matches-in-tournament](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2169-count-operations-to-obtain-zero) |
+| [3701-compute-alternating-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3701-compute-alternating-sum) |
 | [3894-traffic-signal-color](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3894-traffic-signal-color) |
 ## Enumeration
 |  |
