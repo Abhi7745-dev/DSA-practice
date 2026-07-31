@@ -46,6 +46,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2652-sum-multiples) |
+| [2739-total-distance-traveled](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2739-total-distance-traveled) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -129,6 +130,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [1688-count-of-matches-in-tournament](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2169-count-operations-to-obtain-zero) |
+| [2739-total-distance-traveled](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2739-total-distance-traveled) |
 | [3701-compute-alternating-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3701-compute-alternating-sum) |
 | [3894-traffic-signal-color](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3894-traffic-signal-color) |
 ## Enumeration
