@@ -45,6 +45,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [2180-count-integers-with-even-digit-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2413-smallest-even-multiple](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2413-smallest-even-multiple) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2544-alternating-digit-sum) |
@@ -240,4 +241,8 @@ This repository is a record of my learning journey, and I expect my solutions an
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
