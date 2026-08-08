@@ -60,6 +60,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3783-mirror-distance-of-an-integer) |
 | [3894-traffic-signal-color](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3894-traffic-signal-color) |
+| [3895-count-digit-appearances](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3908-valid-digit-number) |
 ## Dynamic Programming
 |  |
@@ -116,6 +117,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3701-compute-alternating-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3731-find-missing-elements) |
+| [3895-count-digit-appearances](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3895-count-digit-appearances) |
 ## Binary Search
 |  |
 | ------- |
