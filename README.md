@@ -121,6 +121,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3467-transform-array-by-parity) |
@@ -151,6 +152,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [2169-count-operations-to-obtain-zero](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2739-total-distance-traveled](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2739-total-distance-traveled) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3701-compute-alternating-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3701-compute-alternating-sum) |
 | [3894-traffic-signal-color](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3925-concatenate-array-with-reverse) |
