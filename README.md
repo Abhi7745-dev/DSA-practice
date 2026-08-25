@@ -128,6 +128,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3467-transform-array-by-parity) |
 | [3701-compute-alternating-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3701-compute-alternating-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3925-concatenate-array-with-reverse) |
@@ -219,6 +220,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0229-majority-element-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
