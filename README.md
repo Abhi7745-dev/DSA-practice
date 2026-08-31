@@ -119,6 +119,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1480-running-sum-of-1d-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -206,6 +207,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0905-sort-array-by-parity](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3467-transform-array-by-parity](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3536-maximum-product-of-two-digits) |
