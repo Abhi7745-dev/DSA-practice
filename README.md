@@ -26,6 +26,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0507-perfect-number) |
@@ -191,6 +192,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0018-4sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0202-happy-number) |
 | [0905-sort-array-by-parity](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -223,6 +225,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0073-set-matrix-zeroes](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -292,4 +295,8 @@ This repository is a record of my learning journey, and I expect my solutions an
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
