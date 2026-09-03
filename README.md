@@ -64,6 +64,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3894-traffic-signal-color](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3908-valid-digit-number) |
@@ -135,6 +136,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
