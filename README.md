@@ -140,6 +140,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3895-count-digit-appearances) |
+| [3903-smallest-stable-index-i](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
@@ -277,6 +278,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0560-subarray-sum-equals-k](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1480-running-sum-of-1d-array) |
 | [2485-find-the-pivot-integer](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2485-find-the-pivot-integer) |
+| [3903-smallest-stable-index-i](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3903-smallest-stable-index-i) |
 ## Trie
 |  |
 | ------- |
