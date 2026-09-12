@@ -41,6 +41,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1688-count-of-matches-in-tournament) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -198,6 +199,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0014-longest-common-prefix) |
 | [0657-robot-return-to-origin](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0657-robot-return-to-origin) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3894-traffic-signal-color](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3894-traffic-signal-color) |
 ## Two Pointers
 |  |
