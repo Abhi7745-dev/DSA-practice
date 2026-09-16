@@ -27,6 +27,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | ------- |
 | [0048-rotate-image](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0441-arranging-coins) |
@@ -79,6 +80,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -92,6 +94,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
