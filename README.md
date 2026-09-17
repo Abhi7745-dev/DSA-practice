@@ -109,6 +109,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0053-maximum-subarray](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0073-set-matrix-zeroes) |
 | [0119-pascals-triangle-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0119-pascals-triangle-ii) |
@@ -174,6 +175,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0059-spiral-matrix-ii) |
 | [0657-robot-return-to-origin](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1688-count-of-matches-in-tournament) |
@@ -283,6 +285,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | ------- |
 | [0048-rotate-image](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
