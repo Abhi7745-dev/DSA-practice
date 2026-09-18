@@ -124,6 +124,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0896-monotonic-array) |
@@ -177,6 +178,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0054-spiral-matrix](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0059-spiral-matrix-ii) |
 | [0657-robot-return-to-origin](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -329,4 +331,8 @@ This repository is a record of my learning journey, and I expect my solutions an
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0202-happy-number) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
