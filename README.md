@@ -179,6 +179,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0059-spiral-matrix-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0059-spiral-matrix-ii) |
 | [0657-robot-return-to-origin](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -209,6 +210,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0014-longest-common-prefix) |
 | [0657-robot-return-to-origin](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0657-robot-return-to-origin) |
+| [0844-backspace-string-compare](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0844-backspace-string-compare) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3894-traffic-signal-color](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3894-traffic-signal-color) |
 ## Two Pointers
@@ -220,6 +222,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0031-next-permutation](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0202-happy-number) |
+| [0844-backspace-string-compare](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -335,4 +338,5 @@ This repository is a record of my learning journey, and I expect my solutions an
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
