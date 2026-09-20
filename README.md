@@ -187,6 +187,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [2180-count-integers-with-even-digit-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2739-total-distance-traveled](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2739-total-distance-traveled) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3701-compute-alternating-sum) |
 | [3894-traffic-signal-color](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3925-concatenate-array-with-reverse) |
@@ -212,6 +213,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0657-robot-return-to-origin](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0844-backspace-string-compare) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [3498-reverse-degree-of-a-string](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3894-traffic-signal-color) |
 ## Two Pointers
 |  |
