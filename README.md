@@ -339,6 +339,19 @@ This repository is a record of my learning journey, and I expect my solutions an
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0844-backspace-string-compare) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
