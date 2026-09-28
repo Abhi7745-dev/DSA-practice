@@ -364,4 +364,8 @@ This repository is a record of my learning journey, and I expect my solutions an
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Linked List
+|  |
+| ------- |
+| [1669-merge-in-between-linked-lists](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1669-merge-in-between-linked-lists) |
 <!---LeetCode Topics End-->
