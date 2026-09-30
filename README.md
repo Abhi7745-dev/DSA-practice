@@ -63,6 +63,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [2739-total-distance-traveled](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2739-total-distance-traveled) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -148,6 +149,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3467-transform-array-by-parity) |
