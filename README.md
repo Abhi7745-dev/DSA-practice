@@ -218,6 +218,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0020-valid-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0844-backspace-string-compare) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -349,6 +350,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0844-backspace-string-compare) |
@@ -372,4 +374,8 @@ This repository is a record of my learning journey, and I expect my solutions an
 |  |
 | ------- |
 | [1669-merge-in-between-linked-lists](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1669-merge-in-between-linked-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
