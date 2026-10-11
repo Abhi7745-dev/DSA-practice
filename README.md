@@ -148,6 +148,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -204,6 +205,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | ------- |
 | [1952-three-divisors](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2427-number-of-common-factors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
