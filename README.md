@@ -158,6 +158,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3701-compute-alternating-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -259,6 +260,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3467-transform-array-by-parity](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -318,6 +320,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
