@@ -71,6 +71,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -320,6 +321,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
