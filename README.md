@@ -146,6 +146,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -247,6 +248,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0844-backspace-string-compare](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0922-sort-array-by-parity-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -263,6 +265,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3467-transform-array-by-parity](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3467-transform-array-by-parity) |
@@ -327,6 +330,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
