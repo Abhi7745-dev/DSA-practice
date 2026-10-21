@@ -63,6 +63,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [2652-sum-multiples](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2652-sum-multiples) |
 | [2739-total-distance-traveled](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2739-total-distance-traveled) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2769-find-the-maximum-achievable-number) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -224,6 +225,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2427-number-of-common-factors) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
@@ -403,6 +405,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 |  |
 | ------- |
 | [1669-merge-in-between-linked-lists](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1669-merge-in-between-linked-lists) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
