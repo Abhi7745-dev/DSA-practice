@@ -252,6 +252,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0905-sort-array-by-parity](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0922-sort-array-by-parity-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -405,6 +406,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 |  |
 | ------- |
 | [1669-merge-in-between-linked-lists](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1669-merge-in-between-linked-lists) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Bracket Sequences
 |  |
