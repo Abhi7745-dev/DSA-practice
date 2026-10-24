@@ -142,6 +142,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0922-sort-array-by-parity-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0989-add-to-array-form-of-integer) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -390,11 +391,13 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0682-baseball-game](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -405,6 +408,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -426,4 +430,12 @@ This repository is a record of my learning journey, and I expect my solutions an
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2221-find-triangular-sum-of-an-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
