@@ -97,6 +97,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
@@ -418,6 +419,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0203-remove-linked-list-elements) |
 | [1669-merge-in-between-linked-lists](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1669-merge-in-between-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
