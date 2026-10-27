@@ -129,6 +129,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0136-single-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -185,6 +186,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0441-arranging-coins](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0704-binary-search) |
@@ -350,6 +352,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -413,6 +416,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0643-maximum-average-subarray-i) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Linked List
