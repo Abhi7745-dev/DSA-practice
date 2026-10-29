@@ -52,6 +52,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2169-count-operations-to-obtain-zero) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2413-smallest-even-multiple) |
@@ -213,6 +214,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [1929-concatenation-of-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2169-count-operations-to-obtain-zero) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2739-total-distance-traveled](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2739-total-distance-traveled) |
