@@ -109,6 +109,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0015-3sum) |
@@ -184,6 +185,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -294,6 +296,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0169-majority-element) |
 ## Hash Table
