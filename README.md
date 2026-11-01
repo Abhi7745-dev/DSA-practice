@@ -129,6 +129,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
@@ -188,6 +189,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0441-arranging-coins](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0441-arranging-coins) |
