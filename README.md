@@ -153,6 +153,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
