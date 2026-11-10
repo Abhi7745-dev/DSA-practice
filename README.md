@@ -90,6 +90,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0119-pascals-triangle-ii) |
@@ -120,6 +121,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0031-next-permutation](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0054-spiral-matrix) |
@@ -273,6 +275,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0015-3sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0202-happy-number) |
 | [0844-backspace-string-compare](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0844-backspace-string-compare) |
@@ -409,6 +412,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0682-baseball-game) |
@@ -464,6 +468,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Prime Factorization
 |  |
