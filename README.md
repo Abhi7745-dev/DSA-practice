@@ -139,6 +139,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0169-majority-element](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
@@ -374,6 +375,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1480-running-sum-of-1d-array) |
