@@ -154,6 +154,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1051-height-checker](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -297,6 +298,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0922-sort-array-by-parity-ii) |
+| [1051-height-checker](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1051-height-checker) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -476,4 +478,12 @@ This repository is a record of my learning journey, and I expect my solutions an
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1492-the-kth-factor-of-n) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
