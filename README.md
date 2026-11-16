@@ -147,6 +147,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0643-maximum-average-subarray-i](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0704-binary-search) |
+| [0817-linked-list-components](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0817-linked-list-components) |
 | [0867-transpose-matrix](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0905-sort-array-by-parity) |
@@ -324,6 +325,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0202-happy-number](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
+| [0817-linked-list-components](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0817-linked-list-components) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1512-number-of-good-pairs](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -453,6 +455,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0203-remove-linked-list-elements) |
+| [0817-linked-list-components](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0817-linked-list-components) |
 | [1669-merge-in-between-linked-lists](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1669-merge-in-between-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
