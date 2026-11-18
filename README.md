@@ -269,6 +269,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3894-traffic-signal-color) |
 ## Two Pointers
