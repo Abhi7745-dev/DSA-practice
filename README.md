@@ -177,6 +177,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [2221-find-triangular-sum-of-an-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -307,6 +308,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3467-transform-array-by-parity](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -374,6 +376,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Abhi7745-dev/DSA-practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Abhi7745-dev/DSA-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
