@@ -434,6 +434,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -445,6 +446,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Sliding Window
 |  |
@@ -475,6 +477,7 @@ This repository is a record of my learning journey, and I expect my solutions an
 ## Binary Search Tree
 |  |
 | ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Abhi7745-dev/DSA-practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhi7745-dev/DSA-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
